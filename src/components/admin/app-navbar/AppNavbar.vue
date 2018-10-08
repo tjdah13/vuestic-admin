@@ -4,7 +4,7 @@
     <header-selector slot="selector" :isOpen.sync="valueProxy"/>
     <span slot="logo" class="i-vuestic"></span>
     <span slot="center">
-      {{$t('navbar.messageUs')}}&nbsp;<a href="mailto:hello@epicmax.co">hello@epicmax.co</a>
+      대시보드 / 관리자 화면 테스트용
     </span>
     <message-dropdown/>
     <notification-dropdown/>
